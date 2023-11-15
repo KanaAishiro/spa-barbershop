@@ -1,0 +1,6 @@
+.hero {
+    background-image: url("/img/SliderImg3.jpg");
+}
+.header {
+    @include flex($justify-content: space-between);
+}
